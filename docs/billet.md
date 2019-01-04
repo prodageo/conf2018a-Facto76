@@ -11,7 +11,7 @@
    - Frédéric Leguédois (Site personnel : http://www.leguedois.fr/, Twitter : https://twitter.com/f_leguedois?lang=fr, LinkedIn : https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-legu%C3%A9dois/?originalSubdomain=fr)
  - Audience : environ 100 personnes
  - Auteur du billet : Denis Coquenet
- - Mots-clés : Binôme - Équipe - Pair programming - Efficience - Apprentissage - Performancce
+ - Mots-clés : Binôme - Équipe - Pair programming - Efficience - Apprentissage - Performancce - Rentabilité
  - URL de l'illustration : ![Mettre votre image, Photo by Oscar Keys on Unsplash](cover.png)
    - source : https://hackernoon.com/learning-how-to-code-using-pair-programming-at-microverse-562d5d49f2f1
 
