@@ -13,8 +13,10 @@
  - Auteur du billet : Denis Coquenet
  - Mots-clés : Binôme - Équipe - Pair programming - Efficience - Apprentissage - Performancce - Rentabilité
  - URL de l'illustration : ![Mettre votre image, Photo by Oscar Keys on Unsplash](cover.png)
-   - source : https://hackernoon.com/learning-how-to-code-using-pair-programming-at-microverse-562d5d49f2f1
-
+ - Quelques sources : 
+   * http://referentiel.institut-agile.fr/pairing.html
+   * https://medium.com/@weblab_tech/pair-programming-guide-a76ca43ff389
+   * https://blog.octo.com/pair-programming-ou-comment-partager/
 ## Support
  - Lien vers le support (diapos) présenté en conférence : le support n'est pas disponible en ligne ; de plus, la conférence n'est pas filmée. (cf http://www.leguedois.fr/pourquoi-les-conferences-ne-sont-pas-filmees/)
  - Nombre de diapos du support : 2
