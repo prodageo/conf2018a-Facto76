@@ -9,7 +9,7 @@
  - Durée de la conférence : ~ 50 minutes
  - Conférencier : 
    - Frédéric Leguédois ([Site personnel](http://www.leguedois.fr/), [Twitter](https://twitter.com/f_leguedois?lang=fr), [LinkedIn]( https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-legu%C3%A9dois/?originalSubdomain=fr))
- - Audience : environ 100 personnes
+ - Audience : ~ 100 personnes
  - Auteur du billet : Denis Coquenet
  - Mots-clés : Binôme - Équipe - Pair programming - Efficience - Apprentissage - Performancce - Rentabilité
  - URL de l'illustration : ![Mettre votre image, Photo by Oscar Keys on Unsplash](cover.png)
