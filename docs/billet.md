@@ -1,4 +1,4 @@
-# Titre
+# Programmer à deux, c'est mieux !
 
 ## Cartouche d'identification
 
