@@ -32,7 +32,7 @@ Le pair programming est donc selon le conférencier plus que rentable au vue de 
 
 
 ## Architecture et facteur qualité
-Ainsi, le pair programming permet notamment d'influer sur les facteurs qualité de la *maintenabilité* et de l'*efficacité*. En effet, le pair programming permet d'éviter les fautes d'étourderie mais aussi les fautes plus importantes qui n'empêche pas le bon déroulement d'un programme sous certaines conditions. Le pair programming prend aussi le rôle de revue de code avec l'avantage d'être continu et en direct ; ainsi, il ne faut pas attendre la fin de phase de développement pour se rendre compte que tout le travail est à refaire.
+Ainsi, le pair programming permet notamment d'influer sur les facteurs qualité de l'*efficacité* et de la *maintenabilité*. En effet, le pair programming permet d'éviter les fautes d'étourderie mais aussi les fautes plus importantes qui n'empêche pas le bon déroulement d'un programme sous certaines conditions. Le pair programming prend aussi le rôle de revue de code avec l'avantage d'être continu et en direct ; ainsi, il ne faut pas attendre la fin de phase de développement pour se rendre compte que tout le travail est à refaire.
 
 De plus, le partage des connaissances au moment de la production du code permet d'augmenter le nombre de développeurs capables de reprendre le code de manière efficace et sans temps d'appropriation. Le conférencier donne notamment l'exemple d'un développeur travaillant seul sur une partie d'un projet et qui serait ensuite malade ou changerait d'entreprise. En effet, selon le conférencier, la quantité de code produite par un développeur est autant d'ignorance créée chez ses collègues. 
 
